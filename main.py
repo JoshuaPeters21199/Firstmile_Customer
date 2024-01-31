@@ -1,18 +1,28 @@
-import csv
-import Customer
+# import csv
+import pandas as pd
+# import Customer
 
 def main():
-    with open('Book1.csv', newline='') as csvfile:
-        arr = []
-        spamreader = csv.reader(csvfile, delimiter=',')
-        for row in spamreader:
-            arr.append(row)
+    # export Excel data into seperate CSV files
+    excel_file_path = 'Piccard Pet Supplies_FullFile_Xparcel_01-26-24.xlsm'
+    xls = pd.ExcelFile(excel_file_path)
+    for sheet_name in xls.sheet_names:
+        df = pd.read_excel(excel_file_path, sheet_name)
+        csv_file_path = f'csv_files/{sheet_name}.csv'
+        df.to_csv(csv_file_path, index=False)
+        print(f'CSV file saved: {csv_file_path}')
 
-        # print(arr[0][0])
-        customerName = arr[0][0].lstrip("ï»¿")
-        print(customerName)
+    # dataArr = []
+    # with open('csvFiles/ground.csv', newline='') as csvfile:
+    #     spamreader = csv.reader(csvfile, delimiter=',')
+    #     for row in spamreader:
+    #         dataArr.append(row)
 
-        customerObject = Customer.Customer('test')
+    #     customerName = dataArr[0][0].lstrip("ï»¿")
+
+    #     customerObject = Customer.Customer(customerName)
+
+    #     print(customerObject)
 
 if __name__ == '__main__':
     main()

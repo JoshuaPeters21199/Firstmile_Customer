@@ -1,0 +1,21 @@
+"The Logic in Column C is very important as Xparcel customers, Direct calls (blank) should say Direct, but for non Xparcel, the product should be mapped to a service.",Unnamed: 1,Unnamed: 2,Unnamed: 3,Populate TOP to BOTTOM with direct calls on bottom,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+label_type,quickbooks_alias,Identity,customers_id,Label Type 2,Product,type,Weight 1,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0
+,Active Figure,20531GroundDHL-G1,20531,Ground,DHL-G,SM_Parcels_Ground,1,3.29,3.33,3.35,3.43,3.49,3.56,3.63,3.64
+,Active Figure,20531GroundDHL-G2,20531,Ground,DHL-G,SM_Parcels_Ground,2,3.29,3.34,3.36,3.44,3.49,3.57,3.63,3.73
+,Active Figure,20531GroundDHL-G3,20531,Ground,DHL-G,SM_Parcels_Ground,3,3.3,3.34,3.36,3.44,3.49,3.57,3.63,3.78
+,Active Figure,20531GroundDHL-G4,20531,Ground,DHL-G,SM_Parcels_Ground,4,3.3,3.34,3.37,3.45,3.5,3.58,3.64,3.78
+,Active Figure,20531GroundDHL-G5,20531,Ground,DHL-G,SM_Parcels_Ground,5,3.65,3.71,3.75,3.8,3.83,3.88,3.95,4.06
+,Active Figure,20531GroundDHL-G6,20531,Ground,DHL-G,SM_Parcels_Ground,6,3.65,3.72,3.75,3.8,3.85,3.89,3.95,4.08
+,Active Figure,20531GroundDHL-G7,20531,Ground,DHL-G,SM_Parcels_Ground,7,3.66,3.72,3.75,3.8,3.85,3.9,3.96,4.09
+,Active Figure,20531GroundDHL-G8,20531,Ground,DHL-G,SM_Parcels_Ground,8,3.66,3.72,3.75,3.81,3.86,3.9,3.97,4.1
+,Active Figure,20531GroundDHL-G9,20531,Ground,DHL-G,SM_Parcels_Ground,9,4.11,4.18,4.21,4.27,4.31,4.35,4.48,4.62
+,Active Figure,20531GroundDHL-G10,20531,Ground,DHL-G,SM_Parcels_Ground,10,4.2,4.26,4.28,4.36,4.4,4.44,4.58,4.76
+,Active Figure,20531GroundDHL-G11,20531,Ground,DHL-G,SM_Parcels_Ground,11,4.22,4.28,4.34,4.41,4.48,4.51,4.67,4.87
+,Active Figure,20531GroundDHL-G12,20531,Ground,DHL-G,SM_Parcels_Ground,12,4.22,4.29,4.34,4.41,4.49,4.58,4.74,4.91
+,Active Figure,20531GroundDHL-G13,20531,Ground,DHL-G,SM_Parcels_Ground,13,4.43,4.5,4.56,4.62,4.69,4.77,4.98,5.2
+,Active Figure,20531GroundDHL-G14,20531,Ground,DHL-G,SM_Parcels_Ground,14,4.47,4.53,4.63,4.67,4.74,4.83,5.08,5.32
+,Active Figure,20531GroundDHL-G15,20531,Ground,DHL-G,SM_Parcels_Ground,15,4.54,4.6,4.69,4.74,4.81,4.91,5.18,5.42
+,Active Figure,20531GroundDHL-G15.99,20531,Ground,DHL-G,SM_Parcels_Ground,15.99,4.55,4.61,4.72,4.77,4.86,4.97,5.24,5.53
+,Active Figure,20531GroundDHL-G16,20531,Ground,DHL-G,SM_Parcel_Plus_Ground,16,6.06,6.13,6.41,6.58,6.6,6.93,7.24,7.65
+,Active Figure,20531GroundDHL-G32,20531,Ground,DHL-G,SM_Parcel_Plus_Ground,32,6.59,6.62,6.88,7.11,7.45,8.61,9.1,9.9
+,Active Figure,20531GroundDHL-G48,20531,Ground,DHL-G,SM_Parcel_Plus_Ground,48,6.91,6.99,7.39,7.69,8.27,10.36,11.49,13.36
